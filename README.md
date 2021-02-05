@@ -1,2 +1,3 @@
 # hello_world
-a repository created in learning how to use github
+
+editing this in an exercise to understand how to use github
